@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Binary Research - posts</title><link href="https://daeumerj.github.io/" rel="alternate"></link><link href="https://daeumerj.github.io/feeds/posts.atom.xml" rel="self"></link><id>https://daeumerj.github.io/</id><updated>2018-03-15T00:00:00-04:00</updated><entry><title>Test Post #1</title><link href="https://daeumerj.github.io/test-post-1.html" rel="alternate"></link><published>2018-03-15T00:00:00-04:00</published><updated>2018-03-15T00:00:00-04:00</updated><author><name>Julian Daeumer</name></author><id>tag:daeumerj.github.io,2018-03-15:/test-post-1.html</id><summary type="html">&lt;style type="text/css"&gt;/*!
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Binary Research - posts</title><link href="https://daeumerj.github.io/" rel="alternate"></link><link href="https://daeumerj.github.io/feeds/posts.atom.xml" rel="self"></link><id>https://daeumerj.github.io/</id><updated>2018-03-15T00:00:00-04:00</updated><entry><title>Test Post #1</title><link href="https://daeumerj.github.io/test-post-1.html" rel="alternate"></link><published>2018-03-15T00:00:00-04:00</published><updated>2018-03-15T00:00:00-04:00</updated><author><name>Julian Daeumer</name></author><id>tag:daeumerj.github.io,2018-03-15:/test-post-1.html</id><summary type="html">&lt;p&gt;Some example code:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;Python syntax highlighting&amp;quot;&lt;/span&gt;
+&lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
-*/.ansibold{font-weight:700}.ansiblack{}.ansired{color:#8b0000}.ansigreen{6400}.ansiyellow{color:#c4a000}.ansiblue{8b}.ansipurple{color:#9400d3}.ansicyan{color:#4682b4}.ansigray{color:gray}.ansibgblack{background-}.ansibgred{background-color:red}.ansibggreen{background-color:green}.ansibgyellow{background-color:#ff0}.ansibgblue{background-f}.ansibgpurple{background-color:#ff00ff}.ansibgcyan{background-ff}.ansibggray{background-color:gray}div.cell{border:1px …&lt;/style&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
+*/.ansibold{font-weight:700}.ansiblack{}.ansired{color:#8b0000}.ansigreen{6400}.ansiyellow{color:#c4a000}.ansiblue{8b}.ansipurple{color:#9400d3}.ansicyan{color:#4682b4}.ansigray{color:gray}.ansibgblack{background-}.ansibgred{background-color:red}.ansibggreen{background-color:green}.ansibgyellow{background-color:#ff0}.ansibgblue{background-f}.ansibgpurple{background-color:#ff00ff …&lt;/style&gt;</summary><content type="html">&lt;p&gt;Some example code:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;Python syntax highlighting&amp;quot;&lt;/span&gt;
+&lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
